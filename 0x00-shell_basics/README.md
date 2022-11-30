@@ -7,4 +7,5 @@
 6-firstdirectory - This makes a directory in the tmp directory
 8-firstdelete - This delete the folder betty from myfirst directory
 9-firstdirdeletion - This delete the directory
-10-back - This returns the directory back to the previous directory  
+10-back - This returns the directory back to the previous directory
+11-lists - This list the (a - hidden,. - current, .. - parent, /boot directories all in a l - list)  
