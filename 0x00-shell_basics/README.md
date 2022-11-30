@@ -10,4 +10,5 @@
 10-back - This returns the directory back to the previous directory
 11-lists - This list the (a - hidden,. - current, .. - parent, /boot directories all in a l - list)
 12-filetype  - This prints the type of file
-13-symboliclink-This creates a link with another file name  
+13-symboliclink-This creates a link with another file name
+14-copyhtml - This copy all the html files from current directory to parent  
