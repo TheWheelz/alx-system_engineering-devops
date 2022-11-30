@@ -4,4 +4,5 @@
 3-listfiles - This file lists the content of the directory in a long list
 4-listmorefiles - This file list the hidden content of the directory and everythin present in a long list
 5-listfilesdigitonly - This display the content in a group accordingly.
-6-firstdirectory - This makes a directory in the tmp directory 
+6-firstdirectory - This makes a directory in the tmp directory
+8-firstdelete - This delete the folder betty from myfirst directory 
