@@ -6,4 +6,5 @@
 5-listfilesdigitonly - This display the content in a group accordingly.
 6-firstdirectory - This makes a directory in the tmp directory
 8-firstdelete - This delete the folder betty from myfirst directory
-9-firstdirdeletion - This delete the directory  
+9-firstdirdeletion - This delete the directory
+10-back - This returns the directory back to the previous directory  
