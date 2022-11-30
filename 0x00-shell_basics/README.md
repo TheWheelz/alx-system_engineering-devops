@@ -8,4 +8,5 @@
 8-firstdelete - This delete the folder betty from myfirst directory
 9-firstdirdeletion - This delete the directory
 10-back - This returns the directory back to the previous directory
-11-lists - This list the (a - hidden,. - current, .. - parent, /boot directories all in a l - list)  
+11-lists - This list the (a - hidden,. - current, .. - parent, /boot directories all in a l - list)
+12-filetype  - This prints the type of file  
