@@ -14,3 +14,4 @@
 14-copyhtml - This copy all the html files from current directory to parent
 100-letsmove - This moves all the files (upper case) to a directory i temp
 101-cleanemacs -This deletes all the files that ends with the symbol~ 
+102-tree - This creates a directory with two spaces 
