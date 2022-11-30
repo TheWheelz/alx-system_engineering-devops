@@ -12,4 +12,5 @@
 12-filetype  - This prints the type of file
 13-symboliclink-This creates a link with another file name
 14-copyhtml - This copy all the html files from current directory to parent
-100-letsmove - This moves all the files (upper case) to a directory i temp  
+100-letsmove - This moves all the files (upper case) to a directory i temp
+101-cleanemacs -This deletes all the files that ends with the symbol~ 
