@@ -9,4 +9,5 @@ Welcome to Shell permissions.
 7-everybody - This gives everybody the execution permission
 8-JamesBond  - This set the user and group to no permision given others all the permission 007.
 9-JohnDoe  - This set the user to all permision and group to read and execute while the others to only write and execute.
-10-mirrorpermissions - Referencing the files to each other by assigning the permission mode of a file to the other. 
+10-mirrorpermissions - Referencing the files to each other by assigning the permission mode of a file to the other.
+11-directories permissions - This adds permissions to all subdirectories with the flag -R and the current working directory .
