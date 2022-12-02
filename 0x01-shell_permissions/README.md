@@ -13,3 +13,4 @@ Welcome to Shell permissions.
 11-directories permissions - This adds permissions to all subdirectories with the flag -R and the current working directory.
 12-directorypermissions - This creates a scripts that makes a directory and assigns a mode with the '-m' flag of permissions
 13-changegroup - Changes the group owner of hellow to school
+100-changeownerandgroup - Changes the owner and group owner of all the files in the directory with the wild card.
