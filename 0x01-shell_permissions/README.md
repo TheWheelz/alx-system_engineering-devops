@@ -6,4 +6,5 @@ Welcome to Shell permissions.
 4-empty - This creates an empty file called hello with the touch command
 5-execute - This add execution permission to the owner
 6-multiplepermissions - This add execution permission to the owner, group and adds read permision to others
-7-everybody - This gives everybody the execution permission 
+7-everybody - This gives everybody the execution permission
+8-JamesBond  - This set the user and group to no permision given others all the permission 007. 
