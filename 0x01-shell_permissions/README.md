@@ -14,4 +14,5 @@ Welcome to Shell permissions.
 12-directorypermissions - This creates a scripts that makes a directory and assigns a mode with the '-m' flag of permissions
 13-changegroup - Changes the group owner of hellow to school
 100-changeownerandgroup - Changes the owner and group owner of all the files in the directory with the wild card.
-101-symboliclinkpermissions - changes the ownership of the file with the -h flag to specify the particular file _hellow
+101-symboliclinkpermissions - changes the ownership of the file with the -h flag to specify the particular file _hello
+102-if_only - changes the file of home to betty if only the file is owned by guillaume
