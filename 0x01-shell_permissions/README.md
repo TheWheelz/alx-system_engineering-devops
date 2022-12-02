@@ -4,4 +4,5 @@ Welcome to Shell permissions.
 2-groups - This prints out the group
 3-newowner - THis changes the ownership of the file to betty
 4-empty - This creates an empty file called hello with the touch command
-5-execute - This add execution permission to the owner 
+5-execute - This add execution permission to the owner
+6-multiplepermissions - This add execution permission to the owner, group and adds read permision to others 
