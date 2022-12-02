@@ -7,4 +7,5 @@ Welcome to Shell permissions.
 5-execute - This add execution permission to the owner
 6-multiplepermissions - This add execution permission to the owner, group and adds read permision to others
 7-everybody - This gives everybody the execution permission
-8-JamesBond  - This set the user and group to no permision given others all the permission 007. 
+8-JamesBond  - This set the user and group to no permision given others all the permission 007.
+9-JohnDoe  - This set the user to all permision and group to read and execute while the others to only write and execute.
