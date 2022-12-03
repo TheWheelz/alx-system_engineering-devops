@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pmas
+ls -maRp
