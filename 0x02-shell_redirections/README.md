@@ -3,3 +3,4 @@ The second prints out the confused smiley using the echo "\to escape" spechial c
 The third prints the /etc/password by using the cat file
 The fourth print the content of a file with a space eg cat /etc/passwd /etc/hosts
 The fifth print the content of a file wit the tail eg tail /etc/passwd
+The sixt prints the first contents that heads the file.
