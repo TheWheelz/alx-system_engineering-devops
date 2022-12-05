@@ -5,3 +5,4 @@ The fourth print the content of a file with a space eg cat /etc/passwd /etc/host
 The fifth print the content of a file wit the tail eg tail /etc/passwd
 The sixt prints the first contents that heads the file.
 The seventh prints the first contents the third line head -n 3 iacta | tail -n 1
+THis prits out the best school in the file given
